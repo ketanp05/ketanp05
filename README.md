@@ -1,9 +1,11 @@
 # 💫 About Me:
 Currently, I am enhancing my knowledge in Software, DevOps, and Data Engineering by tackling algorithmic challenges on Leetcode and engaging in comprehensive courses covering essential DevOps tools such as Docker, Kubernetes, Ansible, Git, and Terraform. My immediate goal is to apply this knowledge in hands-on projects, including
-- Jenkins CI/CD pipeline
-- AWS CI/CD workflows
+- Jenkins CI/CD pipeline end-to-end
+- AWS CI/CD workflow end-to-end
 - Kubernetes deployments on EKS
-- Data Pipelines using Airflow and BigQuery
+- Uber Data Analytics end-to-end build
+- Stock Market Real-Time Data Analysis using Kafka end-to-end build
+- Data Pipelines using Airflow, dbt, soda, and BigQuery
 
 With around 2 years of professional experience across Software, DevOps, Data Engineering, Cloud Computing, and Business Analysis, I'm actively seeking full-time opportunities in these fields.<br><br>At Milwaukee Tool, my role as an IT Analyst allowed me to lead the development of applications improving assembly operations and to document software requirements for enhancements. My efforts in data visualization significantly optimized manufacturing processes, highlighting my capacity to deliver technical solutions with a tangible impact on business efficiency and profitability. During my tenure at UST, I was instrumental in developing the Data Catalog feature for the proprietary ETL Framework "Pine," showcasing my proficiency in Python, SQL, and cloud technologies like AWS, and Azure, and underlining my holistic approach to software and data engineering that spans both client-facing and backend systems.<br><br>Here’s a snapshot of my skills and contributions:<br>• Solid understanding of software engineering, focused on backend development, database management, and data pipelines.<br>• Experience in process automation, data workflow optimization, and scalable cloud solutions.<br>• A solid foundation in aligning technological innovations with strategic business objectives.<br>• A commitment to continuous improvement, with a focus on data, cloud, operations, and software.<br><br>Technical Proficiencies:<br>• Programming: Python, C++, and SQL.<br>• Data Management: MySQL, SQLite, MongoDB, Apache Spark, Azure Databricks, Hadoop.<br>• Cloud and Web Technologies: AWS, Azure, Apache Airflow, Flask, Django.<br>• DevOps Tools: Docker, Terraform, Git, Ansible, Kubernetes, Jenkins.<br>• IT: Project Management, Requirements Gathering, Documentation, and Systems Analysis. <br>• Other Skills: MS Office Suite, Linux, Windows, and macOs.<br><br>I am eager to leverage my diverse skill set in roles that span Software Engineering, Data Engineering, DevOps, and IT.
 
