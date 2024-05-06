@@ -1,8 +1,5 @@
 # 💫 About Me:
-Currently, I am enhancing my knowledge in Software, DevOps, and Data Engineering by tackling algorithmic challenges on Leetcode and engaging in comprehensive courses covering essential DevOps tools such as Docker, Kubernetes, Ansible, Git, and Terraform. My immediate goal is to apply this knowledge in hands-on projects, including
-- Jenkins CI/CD pipeline end-to-end
-- AWS CI/CD workflow end-to-end
-- Kubernetes deployments on EKS
+Currently, I am enhancing my knowledge in Software, DevOps, Data Engineering, and Machine Learning by tackling algorithmic challenges on Leetcode and engaging in comprehensive courses covering essential DevOps tools such as Docker, Kubernetes, Ansible, Git, and Terraform, and ML concepts taught on Coursera's ML specialization followed by building data pipelines in future to improve my Data Engineering skills. My immediate goal is to apply this knowledge in hands-on projects, including
 - Uber Data Analytics end-to-end build
 - Stock Market Real-Time Data Analysis using Kafka end-to-end build
 - Data Pipelines using Airflow, dbt, soda, and BigQuery
