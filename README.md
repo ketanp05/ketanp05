@@ -1,7 +1,7 @@
 # 💫 About Me:
-Machine Learning Engineer at Michigan Technological University's Department of Mechanical Engineering - Engineering Mechanics | Actively looking for roles in Software Engineering, Data Engineering, DevOps Engineering, Data Science and Analytics, and, IT/Business Analytics.
+Graduate in Spring 2024 in Computer Science, I am currently a Machine Learning Engineer at Michigan Technological University's Department of Mechanical Engineering - Engineering Mechanics. I am also actively looking for opportunities in Software Engineering, Data Engineering, DevOps Engineering, Data Science and Analytics, and, IT/Business Analytics.
 
-Additionally, I am enhancing my knowledge/skills by tackling algorithmic challenges on Leetcode and engaging in comprehensive courses covering essential tools and technolgies followed by building end to end data pipelines. My immediate goal is to apply this knowledge in hands-on projects, including
+Additionally, I am enhancing my knowledge/skills by tackling algorithmic challenges on Leetcode and engaging in comprehensive courses covering essential tools and technolgies in ML followed by building end to end data pipelines. My immediate goal is to apply this knowledge in hands-on projects, including
 - Uber Data Analytics end-to-end build
 - Stock Market Real-Time Data Analysis using Kafka end-to-end build
 - Data Pipelines using Airflow, dbt, soda, and BigQuery
