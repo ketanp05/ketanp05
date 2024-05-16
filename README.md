@@ -1,10 +1,7 @@
 # 💫 About Me:
 Graduated in Spring 2024 in Computer Science, I am currently a Machine Learning Engineer at Michigan Tech's Department of Mechanical Engineering - Engineering Mechanics focusing on advancing real-time fault diagnosis and prognosis in machinery systems. I am also actively looking for opportunities in Software Engineering, Data Engineering, Data Science (Machine Learning), and, IT/Business Analytics.
 
-Additionally, I am enhancing my knowledge/skills by tackling algorithmic challenges on Leetcode and engaging in comprehensive courses covering essential tools and technolgies in ML followed by building end to end data pipelines. My immediate goal is to apply this knowledge in hands-on projects, including
-- Uber Data Analytics end-to-end build
-- Stock Market Real-Time Data Analysis using Kafka end-to-end build
-- Data Pipelines using Airflow, dbt, soda, and BigQuery
+Additionally, I am enhancing my knowledge/skills by tackling algorithmic challenges on Leetcode and engaging in comprehensive courses covering essential tools and technolgies in ML followed by building end to end data pipelines and projects incorporating best software engineering practices.
 
 At Milwaukee Tool, my role as an IT Analyst allowed me to lead the development of applications improving assembly operations and to document software requirements for enhancements. My efforts in data visualization significantly optimized manufacturing processes, highlighting my capacity to deliver technical solutions with a tangible impact on business efficiency and profitability. During my tenure at UST, I was instrumental in developing the Data Catalog feature for the proprietary ETL Framework "Pine," showcasing my proficiency in Python, SQL, and cloud technologies like AWS, and Azure, and underlining my holistic approach to software and data engineering that spans both client-facing and backend systems.<br><br>What do I bring on the table:<br>• Solid background in software/data engineering, focused on backend development, database management, and data pipelines.<br>• Experience in machine learning, process automation, data workflow optimization, and scalable cloud solutions.<br>• A strong interest and foundation in aligning technological innovations with strategic business objectives.<br>• A commitment to continuous improvement!
 ## 🌐 Socials:
