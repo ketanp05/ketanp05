@@ -11,13 +11,13 @@ At Milwaukee Tool, my role as an IT Analyst allowed me to lead the development o
 
 # 🏢 Work Experience:
 
-## 🔧 Milwaukee Tool
+## 🔧 [Milwaukee Tool](https://www.milwaukeetool.com)
 At Milwaukee Tool, I led the development of a Pick-To-Light Manufacturing Execution System (MES) using Tulip and REST APIs. This system guided operators on both what to build and how to build it, controlling the assembly process and integrating with the plant-wide messaging and alarm system for seamless interaction and documentation. Leveraging my expertise in Human-Computer Interaction and Usability Testing from Michigan Tech, I designed intuitive user interfaces and developed key performance indicators (KPIs) using SQL, such as cycle time, defect rate, and throughput, achieving a 35% boost in assembly process efficiency. I authored a Functional Requirements Document (FRD) for the FreedomOEE tool, ensuring clear and accurate specifications, which expedited the resolution of timely alert issues. Additionally, I designed data visualization charts to analyze key OEE metrics, leading to a 500-unit increase in monthly production output and reducing production errors by 20 incidents per week, significantly enhancing operational efficiency.
 
-## 💡 UST AlphaAI
+## 💡 [UST AlphaAI](https://www.ust.com/en/alpha-ai)
 At UST AlphaAI, I implemented 5 REST APIs for a custom ETL tool using Vue.js, Flask, and MySQL, integrating JWT for secure authentication and CRUD operations to store pipeline metadata, resulting in a 40% boost in data workflow efficiency. I improved development efficiency by migrating the Vue.js frontend from the data ingestion framework to the ETL tool, reducing a typical 3-month migration timeline to just 1 month. I refactored the data cataloging feature using PySpark and Databricks Koalas, achieving a 60% increase in processing efficiency and reducing runtime from 10 hours to 4 hours. Additionally, I engineered a real-time data pipeline with Azure Stack (Stream Analytics, Databricks), Apache Kafka, Superset, and Snowflake, reducing data latency by 30% and enabling the timely extraction of 5 key business metrics.
 
-## 🖥️ Humane Interface Design Enterprise (HIDE)
+## 🖥️ [Humane Interface Design Enterprise (HIDE)](http://hide.cs.mtu.edu)
 
 ### 👨‍💻 Software Development Engineer (SDE)
 At HIDE, I significantly improved the deployment efficiency of a Django application on cPanel by 10%, configuring WSGI and securing the production environment. I integrated Microsoft Authentication Library (MSAL) for token acquisition using Postman and Azure, ensuring secure and efficient access control through Azure Active Directory integrations. I developed a documentation platform for HIDE projects, achieving a 90% Web Accessibility rating by leveraging web design best practices and creating detailed technical guides. Additionally, I architected and recommended technology stacks, including programming languages, frameworks, and databases, fostering collaboration across teams and ensuring efficient development.
@@ -25,7 +25,7 @@ At HIDE, I significantly improved the deployment efficiency of a Django applicat
 ### 📊 Process Analyst
 As an Agile Process Analyst for the Little Brothers Friends of the Elderly (LBFE) development team, I led efforts to streamline scheduling and manage transportation services, optimizing the utilization of vehicles and volunteers. I improved the team's process efficiency by 30%, reducing the backlog through the integration and optimization of Trello and Discord for task management and communication. I increased the technical skill level of team members from an average of 2 to 3 (on a 5-point scale) over a semester by introducing pair programming and technical workshops. I also enhanced the client interaction process by organizing bi-weekly presentations and reviews, significantly improving the quality of project updates and feedback sessions.
 
-## 🎓 Michigan Technological University
+## 🎓 [Michigan Technological University](https://www.mtu.edu)
 
 ### 🧬 Research Assistant (Computational Genomics)
 As a Graduate Research Assistant under Dr. Hairong Wei, I conducted in-depth research on genome sequencing, focusing on techniques, genome analysis, and the role of k-mers. I utilized bioinformatics software such as Bioconda, KMC, and Jellyfish for genomic data processing. I managed server interactions via UNIX, using commands for server connections, file upload/download, and executing Python scripts to ensure efficient data handling. Additionally, I debugged Python scripts for staging .fastqc files, streamlining data preparation for genome analysis. My work included exploring Explainable AI (xAI), specifically SHAP, to interpret deep learning models, contributing to the understanding of gene contributions to COVID-19.
